@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Content/Textures/background.png</file>
+        <file>Content/Style/blueStyle/arrow-down-sm.png</file>
+        <file>Content/Style/blueStyle/arrow-down.png</file>
+        <file>Content/Style/blueStyle/arrow-down_.png</file>
+        <file>Content/Style/blueStyle/arrow-left-sm.png</file>
+        <file>Content/Style/blueStyle/arrow-left.png</file>
+        <file>Content/Style/blueStyle/arrow-right-sm.png</file>
+        <file>Content/Style/blueStyle/arrow-right.png</file>
+        <file>Content/Style/blueStyle/arrow-up-sm.png</file>
+        <file>Content/Style/blueStyle/arrow-up.png</file>
+        <file>Content/Style/blueStyle/checkbox.png</file>
+        <file>Content/Style/blueStyle/icon_branch_end.png</file>
+        <file>Content/Style/blueStyle/icon_branch_more.png</file>
+        <file>Content/Style/blueStyle/icon_vline.png</file>
+        <file>Content/Style/blueStyle/radiobutton.png</file>
+        <file>Content/Style/blueStyle/style.qss</file>
+        <file>Content/Textures/background2.png</file>
+        <file>Content/Textures/background3.png</file>
+        <file>Content/Shaders/acrylicShader.fsh</file>
+        <file>Content/Shaders/acrylicShader.vsh</file>
+    </qresource>
+</RCC>
